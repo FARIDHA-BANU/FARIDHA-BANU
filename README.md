@@ -1,11 +1,11 @@
 ![logo](https://github.com/FARIDHA-BANU/FARIDHA-BANU/blob/main/Github.jpg)
-<h1 align="center">Hi 👋, I'm Faridha</h1>
-<h3 align="center">A passionate Data Science student from India</h3>
+<h1 align="center">Hi 👋, I'm FARIDHA</h1>
+<h3 align="center">A passionate Data Science Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faridha-banu&label=Profile%20views&color=0e75b6&style=flat" alt="faridha-banu" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **mullafaridhabanu@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/faridha banu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faridha banu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/faridha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faridha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_faridha_banu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_faridha_banu" height="30" width="40" /></a>
 </p>
 
