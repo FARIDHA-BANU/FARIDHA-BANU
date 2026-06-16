@@ -2,15 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:9D4EDD,100:00F5D4&text=Mulla%20Faridha%20Banu&fontSize=55&fontColor=ffffff&animation=twinkling&desc=Data%20Science%20Developer%20%7C%20ML%20Engineer%20%7C%20AI%20Explorer&descSize=18"/>
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Universe;Data+Science+Enthusiast+📊;Machine+Learning+Developer+🤖;Python+Programmer+🐍;Building+AI+Driven+Solutions+🚀"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Universe;Data+Science+Enthusiast+📊;Machine+Learning+Developer+🤖;Python+Programmer+🐍;Building+AI+Solutions+🚀"/>
 
 </div>
 
-
 ---
-
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -26,19 +22,13 @@ A passionate **Data Science & Machine Learning Developer** from India 🇮🇳
 
 - 🎓 Pursuing **B.Tech CSE (Data Science)**
 
-- 🏫 Student at **Rajeev Gandhi Memorial College of Engineering & Technology**
+- 🏫 Rajeev Gandhi Memorial College Of Engineering & Technology
 
-- 📊 Current CGPA: **8.3**
+- 📊 CGPA : **8.3**
 
-- 🤖 Interested Areas:
+- 🤖 Exploring **AI | ML | Deep Learning | Data Analytics**
 
-   • Artificial Intelligence  
-   • Machine Learning  
-   • Deep Learning  
-   • Data Analytics  
-
-
-- 💡 Passionate about building **AI powered solutions using data**
+- 💡 Building intelligent solutions using data
 
 
 ---
@@ -60,7 +50,7 @@ A passionate **Data Science & Machine Learning Developer** from India 🇮🇳
 </a>
 
 
-<a href="https://github.com/">
+<a href="https://github.com/FARIDHA-BANU">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -77,24 +67,24 @@ A passionate **Data Science & Machine Learning Developer** from India 🇮🇳
 <div align="center">
 
 
-## 👩‍💻 Programming
+### 👩‍💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,java"/>
 
 
-## 🌐 Web
+### 🌐 Web
 
 <img src="https://skillicons.dev/icons?i=html,css"/>
 
 
-## 🤖 Data Science & AI
+### 🤖 AI & Data Science
 
 
-<img src="https://img.shields.io/badge/Machine Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine Learning-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Deep Learning-FF006E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep Learning-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data Analysis-00B4D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data Analytics-green?style=for-the-badge"/>
 
 
 <br>
@@ -107,20 +97,18 @@ A passionate **Data Science & Machine Learning Developer** from India 🇮🇳
 <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge"/>
 
 
-## ⚙ Tools
+### ⚙ Tools
 
 
 <img src="https://skillicons.dev/icons?i=github,vscode"/>
 
-
 <br>
-
 
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge"/>
 
 
 </div>
@@ -141,17 +129,13 @@ A passionate **Data Science & Machine Learning Developer** from India 🇮🇳
 
 ## 🏦 AI Loan Approval Prediction
 
-
-AI based ML classification system
-
-
+✔ ML Classification Model  
 ✔ Data Preprocessing  
 ✔ Feature Scaling  
-✔ Model Training  
 ✔ Streamlit Deployment  
 
 
-`Python` `Scikit-Learn` `ML`
+`Python` `ML` `Scikit-Learn`
 
 
 </td>
@@ -160,22 +144,19 @@ AI based ML classification system
 <td width="50%">
 
 
-## 🏨 Booking Lead Time Prediction
+## 🏨 Booking Lead Prediction
 
-
-Regression based prediction model
-
-
+✔ Regression Model  
 ✔ Data Cleaning  
 ✔ EDA  
-✔ Feature Engineering  
-✔ Optimization  
+✔ Optimization
 
 
 `Python` `Pandas` `Regression`
 
 
 </td>
+
 
 </tr>
 
@@ -187,13 +168,9 @@ Regression based prediction model
 
 ## 🛍 Shopping AI Assistant
 
-
-Personalized recommendation system
-
-
+✔ Recommendation System  
 ✔ Smart Suggestions  
-✔ Recommendation Logic  
-✔ Python Implementation
+✔ Python Logic
 
 
 `Python` `AI`
@@ -205,20 +182,17 @@ Personalized recommendation system
 <td width="50%">
 
 
-## 🌱 Learning Journey
+## 🌱 Learning
 
-
-✔ Advanced ML  
+✔ Machine Learning  
 ✔ Deep Learning  
-✔ Data Visualization  
 ✔ AI Applications  
+✔ Data Visualization
 
 
 </td>
 
-
 </tr>
-
 
 </table>
 
@@ -232,16 +206,12 @@ Personalized recommendation system
 <div align="center">
 
 
-## 🎓 Bachelor Of Technology
-
+## 🎓 B.Tech
 
 **Computer Science Engineering (Data Science)**
 
 
 🏫 Rajeev Gandhi Memorial College Of Engineering & Technology
-
-
-📍 Nandyal, Andhra Pradesh
 
 
 📅 2023 - 2027
@@ -256,59 +226,22 @@ Personalized recommendation system
 ---
 
 
-# 🏆 Certifications
-
-
-<div align="center">
-
-
-🐍 Python For Data Science  
-
-
-📊 Kaggle Python & Pandas  
-
-
-🚀 Building Personal Brand As Developer  
-_Jignasa - The Learning Club_
-
-
-</div>
-
-
----
-
-
 # 📊 GitHub Analytics
 
 
 <div align="center">
 
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=FARIDHA-BANU&show_icons=true&theme=tokyonight"/>
 
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FARIDHA-BANU&theme=tokyonight"/>
 
 
 <br>
 
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-
-</div>
-
-
----
-
-
-# 🏆 GitHub Trophy
-
-
-<div align="center">
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FARIDHA-BANU&layout=compact&theme=tokyonight"/>
 
 
 </div>
@@ -323,7 +256,7 @@ _Jignasa - The Learning Club_
 <div align="center">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FARIDHA-BANU&theme=tokyo-night"/>
 
 
 </div>
@@ -338,7 +271,7 @@ _Jignasa - The Learning Club_
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/FARIDHA-BANU/FARIDHA-BANU/output/github-contribution-grid-snake-dark.svg"/>
 
 
 </div>
@@ -347,14 +280,12 @@ _Jignasa - The Learning Club_
 ---
 
 
-# 💭 Developer Quote
+# 💭 Quote
 
 
 <div align="center">
 
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 </div>
 
@@ -365,13 +296,13 @@ _Jignasa - The Learning Club_
 <div align="center">
 
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet">
+<img src="https://komarev.com/ghpvc/?username=FARIDHA-BANU&style=for-the-badge&color=blueviolet">
 
 
 <br><br>
 
 
-## ✨ Thanks For Visiting My Data World ✨
+## ✨ Thanks For Visiting ✨
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:9D4EDD,100:00F5D4">
